@@ -1,0 +1,14 @@
+
+
+first make folder and classes with oops, exception handling in this cover entity classes 
+start servlets and jsp cover contenor logic
+go for database connection and cover repository logic 
+after move in security understand it try outh also 
+
+
+then move to spring boot 
+
+
+
+
+
