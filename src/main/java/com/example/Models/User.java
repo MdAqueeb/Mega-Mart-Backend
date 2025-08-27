@@ -4,11 +4,11 @@ class User {
     // Name, image, roles: customer or admin, address, mobile no., cart, product with catogory, order, payment
 
     // The below id set by default
-    private long id;
+    private long id = 0;
 
     private String name;
 
-    private Role role;
+    private Role role = Role.CUSTOMER;
 
     private String address;
 
